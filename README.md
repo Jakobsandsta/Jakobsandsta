@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - link to p5: https://editor.p5js.org/Jakobsandsta/sketches
+- CodeWars profile: https://www.codewars.com/users/Jakobsandsta
 
 <!---
 Jakobsandsta/Jakobsandsta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
