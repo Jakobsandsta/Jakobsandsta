@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Jakobsandsta
 - 👀 I’m interested in programming, books, math
 - 🌱 I’m currently learning javascript, p5.js and node.js
+- Languages I know:
+-       Javascript
+-       Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - link to p5: https://editor.p5js.org/Jakobsandsta/sketches
