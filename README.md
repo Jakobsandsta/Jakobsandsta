@@ -4,6 +4,9 @@
 - Languages I know:
 -       Javascript
 -       Python
+-       HTML
+-       CSS
+-       Bash
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - link to p5: https://editor.p5js.org/Jakobsandsta/sketches
